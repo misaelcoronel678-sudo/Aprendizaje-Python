@@ -1,12 +1,12 @@
 <h1>Datos_Compuestos</h1>
 
-En esta leccion aprendi a:
+<h3>En esta leccion aprendi a:</h3>
 
 <ul>
 <li>Crear una lista</li>
-Crear una Tupla
-Crear un Conjunto
-Crear un diccionario
+<li>Crear una Tupla</li>
+<li>Crear un Conjunto</li>
+<li>Crear un diccionario</li>
 </ul>
 Lo que mas me costo entender de esta leccion fue comprender bien las tuplas y los conjuntos
 
