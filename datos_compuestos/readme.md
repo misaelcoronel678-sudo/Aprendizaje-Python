@@ -1,4 +1,4 @@
-<h1>Datos_Compuestos<h1/>
+<h1>Datos_Compuestos</h1>
 
 En esta leccion aprendi a:
 
