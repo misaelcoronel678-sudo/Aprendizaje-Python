@@ -2,10 +2,10 @@
 
 En esta leccion aprendi a:
 
-    *Crear una lista
-    *Crear una Tupla
-    *Crear un Conjunto
-    *Crear un diccionario
+*Crear una lista
+*Crear una Tupla
+*Crear un Conjunto
+*Crear un diccionario
 
 Lo que mas me costo entender de esta leccion fue comprender bien las tuplas y los conjuntos
 
