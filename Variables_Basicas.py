@@ -10,7 +10,7 @@ NombreDelUsuario= "Misael"
  #Definiendo Variables con Snake_Case
 Apellido_Del_Usuario= "Coronel"
 #Concatenando con +
-bienvenida="Hola " + Nombre+ " "  + Apellido + " ¿Como estas?"
+bienvenida="Hola " + NombreDelUsuario+ " "  + Apellido_del_usuario + " ¿Como estas?"
 print (bienvenida)
 
 #Definiendo Variables
