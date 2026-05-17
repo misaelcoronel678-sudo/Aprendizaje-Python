@@ -11,4 +11,4 @@
 Lo que mas me costo entender de esta leccion fue comprender bien las tuplas y los conjuntos
 <br>
 <br>
-lo que mas me gusto de esta leccion fueron los <strong><e>diccionarios</e></strong>
+lo que mas me gusto de esta leccion fueron los <strong><em>diccionarios</em></strong>
