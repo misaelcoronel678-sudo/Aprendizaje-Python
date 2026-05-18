@@ -10,4 +10,4 @@
 
 </ul>
 
-<p>lo que mas me costo entender de esta leccion fue el <strong><em>mayor o igual</em></strosng> que y <strong><em>el menor o igual que</em></strong> pero a la vez fue la parte que mas interesante me parecio</p>
+<p>lo que mas me costo entender de esta leccion fue el <strong><em>mayor o igual (>=)</em></strong> que y <strong><em>el menor o igual que (<=)</em></strong> pero a la vez fue la parte que mas interesante me parecio</p>
