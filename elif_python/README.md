@@ -1,0 +1,3 @@
+<h1>Elif en Python</h1>
+
+<p>En esta leccion aprendi que los elif son como una convinacion entre el if y el else basicamente que por ejemplo el if seria un "<strong>si esto se cumple</strong> has esto" else seria "<strong>si nada se cumple</strong> entonces has esto" el elif seria una combinacion "si no se cumple la condicion del if entonces verifica si el elif si se cumpla <strong>sino se cumle pasa al sigiente</strong>"
