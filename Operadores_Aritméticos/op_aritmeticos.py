@@ -15,6 +15,7 @@ division_baja = 12 // 5 #devuelve entero redondeado hacia abajo
 #resto o modulo
 resto = 12 % 5
 
-tipo_de_dato = type (division_baja) #type (dato) nos devuelve que tipo de dato es
+tipo_de_dato = type (division_baja) #type (dato) nos devuelve que tipo
+de dato es
 
 print (division_baja)
